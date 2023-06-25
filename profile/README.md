@@ -1,7 +1,7 @@
 ## Hi there 👋
 https://bemyfr1end.onrender.com/
 
-SMART CONTRACT=
+SMART CONTRACT=https://blockscout.com/shibuya/address/0xF45448cAD021F2251297115a796e5a7ec4915271
 <!--
 
 **Here are some ideas to get you started:**
