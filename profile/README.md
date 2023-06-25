@@ -1,5 +1,7 @@
 ## Hi there 👋
+https://bemyfr1end.onrender.com/
 
+SMART CONTRACT=
 <!--
 
 **Here are some ideas to get you started:**
