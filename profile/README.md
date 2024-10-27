@@ -34,7 +34,7 @@
     <img src="https://avatars.githubusercontent.com/u/52099739?s=96&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Be My Friend</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
